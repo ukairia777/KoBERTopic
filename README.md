@@ -1,5 +1,5 @@
 # KoBERTopic
-## 소개
+## 모델 소개
 KoBERTopic은 BERTopic을 한국어 데이터에 적용할 수 있도록 토크나이저와 BERT를 수정했습니다.
 
 * 기존 BERTopic : https://github.com/MaartenGr/BERTopic/tree/05a6790b21009d1704e912e0d9ae22290694cfed
