@@ -13,5 +13,4 @@ KoBERTopic은 BERTopic을 한국어 데이터에 적용할 수 있도록 토크�
 
 
 ## 참고) BERT 기반의 한국어 토픽 모델 깃허브
-* 개인적으로 아래의 모델이 더 좋은 결과를 얻었습니다.
-* Korean Contextualized Topic Models ( https://github.com/ukairia777/bert-topic-models )
+* [Korean Contextualized Topic Models](https://github.com/ukairia777/bert-topic-models)
